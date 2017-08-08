@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lib/source/lib.iml" filepath="$PROJECT_DIR$/lib/source/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/source/netty-3.10/src/main/main.iml" filepath="$PROJECT_DIR$/lib/source/netty-3.10/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mosqproxy.iml" filepath="$PROJECT_DIR$/mosqproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/source/netty-3.10/src/test/test.iml" filepath="$PROJECT_DIR$/lib/source/netty-3.10/src/test/test.iml" />
+    </modules>
+  </component>
+</project>

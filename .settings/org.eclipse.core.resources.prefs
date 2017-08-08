@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//conf/system.properties=UTF-8
+encoding//detachedConf/datasource.properties=UTF-8
+encoding//detachedConf/dependence.properties=UTF-8
+encoding//detachedConf/service.properties=UTF-8
+encoding//src/com/xyz/mosqproxy/starter/Starter.java=UTF-8
+encoding//src/com/xyz/mosqproxy/starter/UpdateThread.java=UTF-8
+encoding//src/com/xyz/mosqproxy/starter/Version.java=UTF-8
+encoding//src/com/xyz/mosqproxy/telnet/TelnetDaemon.java=UTF-8
+encoding/<project>=UTF-8
+encoding/detachedConf=UTF-8
